@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me",
+      "userId": "105724586739203267005",
+      "id": 2
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "This was with a patch",
+      "userId": "105724586739203267005",
+      "id": 4
+    }
+  ]
+}
